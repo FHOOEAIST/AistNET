@@ -47,7 +47,7 @@ pipeline {
                 -Dsonar.python.pylint.reportPath=**/pylint.txt \
                 -Dsonar.python.coverage.reportPaths=**/coverage.xml \
                 -Dsonar.python.xunit.reportPath=.tox/junit.xml \
-                -Dsonar.sources=.tox/env/lib/python3.7/site-packages/aistnet/ \
+                -Dsonar.sources=.tox/env/lib/python3.8/site-packages/aistnet/ \
                 -Dsonar.tests=tests/aistnet
             """
             junit '.tox/junit.xml'
