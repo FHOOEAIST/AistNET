@@ -1,3 +1,7 @@
+[![GitHub release](https://img.shields.io/github/v/release/fhooeaist/AistNET.svg)](https://github.com/fhooeaist/AistNET/releases)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![PyPI version](https://badge.fury.io/py/aistnet.svg)](https://badge.fury.io/py/aistnet)
+
 ![AistNet](documentation/aist_net.svg)
 
 # AistNET
