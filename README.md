@@ -1,5 +1,3 @@
-/* [TODO ADD Batches](https://aist.fh-hagenberg.at/git/Development/aistnet/-/issues/7) */
-
 ![AistNet](documentation/aist_net.svg)
 
 # AistNET
@@ -28,7 +26,6 @@ buildings block for reusability.
 ## Getting Started
 
 To install the current release use pip:
-[TODO Host on PyPi]()
 
 ```pip
 pip install aistnet
@@ -246,5 +243,3 @@ distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 If you are going to use this project as part of a research paper, we would ask you to reference this project by citing
 it.
-
-/* [TODO ADD DOI](https://aist.fh-hagenberg.at/git/Development/aistnet/-/issues/5) */
