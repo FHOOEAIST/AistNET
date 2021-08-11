@@ -1,6 +1,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/fhooeaist/AistNET.svg)](https://github.com/fhooeaist/AistNET/releases)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![PyPI version](https://badge.fury.io/py/aistnet.svg)](https://badge.fury.io/py/aistnet)
+[![DOI](https://zenodo.org/badge/389547865.svg)](https://zenodo.org/badge/latestdoi/389547865)
 
 ![AistNet](documentation/aist_net.svg)
 
@@ -247,3 +248,5 @@ distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 If you are going to use this project as part of a research paper, we would ask you to reference this project by citing
 it.
+
+[![DOI](https://zenodo.org/badge/389547865.svg)](https://zenodo.org/badge/latestdoi/389547865)
